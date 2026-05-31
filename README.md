@@ -87,3 +87,8 @@ Developed by:PARAVEZHAA M RegisterNumber:212225220070
 Thus the verilog code to implement 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is done.
 
 .
+
+
+
+.
+.
