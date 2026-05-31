@@ -55,7 +55,6 @@ endmodule
 
 Developed by:PARAVEZHAA M RegisterNumber:212225220070
 */
-
 **TRUTH TABLE**
 | Clock Pulse | Q3 | Q2 | Q1 | Q0 | Decimal |
 | ----------- | -- | -- | -- | -- | ------- |
