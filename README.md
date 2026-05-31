@@ -76,11 +76,12 @@ Developed by:PARAVEZHAA M RegisterNumber:212225220070
 | 14          | 1  | 1  | 1  | 0  | 14      |
 | 15          | 1  | 1  | 1  | 1  | 15      |
 | 16 → Reset  | 0  | 0  | 0  | 0  | 0       |
-
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 <img width="1727" height="847" alt="image" src="https://github.com/user-attachments/assets/96567f34-e5df-44cb-8c54-d5cab05f3263" />
+
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 <img width="1694" height="840" alt="image" src="https://github.com/user-attachments/assets/c3ce40c0-c0dd-4b5b-ba26-7714085e187a" />
+
 **RESULTS**
 Thus the verilog code to implement 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is done.
 
