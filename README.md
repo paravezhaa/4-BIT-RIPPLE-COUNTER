@@ -55,6 +55,7 @@ endmodule
 
 Developed by:PARAVEZHAA M RegisterNumber:212225220070
 */
+
 **TRUTH TABLE**
 | Clock Pulse | Q3 | Q2 | Q1 | Q0 | Decimal |
 | ----------- | -- | -- | -- | -- | ------- |
@@ -75,6 +76,7 @@ Developed by:PARAVEZHAA M RegisterNumber:212225220070
 | 14          | 1  | 1  | 1  | 0  | 14      |
 | 15          | 1  | 1  | 1  | 1  | 15      |
 | 16 → Reset  | 0  | 0  | 0  | 0  | 0       |
+
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 <img width="1727" height="847" alt="image" src="https://github.com/user-attachments/assets/96567f34-e5df-44cb-8c54-d5cab05f3263" />
 
